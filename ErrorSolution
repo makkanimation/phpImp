@@ -1,0 +1,5 @@
+## mysql 1390 Prepared statement contains too many placeholders
+
+https://laracasts.com/discuss/channels/laravel/query-bug-workaround-the-correct-way-to-do-it
+
+https://stackoverflow.com/questions/10113562/pdo-mysql-use-pdoattr-emulate-prepares-or-not
