@@ -10,6 +10,10 @@ https://stackoverflow.com/questions/40188597/how-to-access-a-property-value-insi
 
 ## Change php version
 sudo update-alternatives --config php
+
 sudo a2dismod php7.4
+
 sudo a2enmod php8.2
+
 sudo systemctl restart apache2
+
